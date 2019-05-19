@@ -1,5 +1,5 @@
 // Task 0: Fill in your name :)
-const MY_USER_NAME = "INSERT NAME HERE";
+const MY_USER_NAME = "TSAI, HSIAO-HAN";
 
 // Challenge question 1 - random failures
 // If random failure occurs, figure out how to deal with it.
